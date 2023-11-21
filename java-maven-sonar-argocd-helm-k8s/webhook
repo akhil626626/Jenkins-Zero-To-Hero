@@ -1,2 +1,3 @@
 We need to configure the webhook in Jenkins to notify GitHub of the changes.
 we can set the pull request , commit or push request in git hub
+If the devloper change the code , Git will nofity the jenkins with help of webhooks.
