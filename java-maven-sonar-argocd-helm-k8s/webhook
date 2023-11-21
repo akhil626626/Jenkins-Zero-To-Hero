@@ -9,3 +9,6 @@ Now the devops engineer role comes into play. We need to build the application.
 by install the maven plugins in the jenkins or we can use the docker agent for installtion the maven.
 In build unit test and static code analysis will be done.
 
+if build fails we can set the notification using email or AWS SES etc..
+
+
