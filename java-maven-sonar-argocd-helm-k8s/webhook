@@ -31,12 +31,16 @@ Continuous integration is done.
 
 
 CD.
+step:5
+Gitops is the best practice for CD.
 
-gitops is best practice for CD.
+For CD you need to maintain other git repos for CD like deployment.yaml , pod.yaml , and service.yaml.
 
-for CD you need to maintain other git repo for CD like deployment.yaml and pod.yaml
+step:6
+Argo Image updator.
+it will notify the any update in dockerhub to gitofCD.
 
-
+Argo CD will update the pod.yaml to kubernetes.
 
 
 
