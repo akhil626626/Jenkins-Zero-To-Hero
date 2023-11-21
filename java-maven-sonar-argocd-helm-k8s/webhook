@@ -1,4 +1,5 @@
 
+
 step 1:
 We need to configure the webhook in Jenkins to notify GitHub of the changes.
 we can set the pull request , commit or push request in git hub
@@ -26,7 +27,12 @@ using shell script or docker images.
 then we can used docker image to docker hub or etc....
 
 
-Continuos integration is done.
+Continuous integration is done.
+
+
+CD.
+
+
 
 
 
