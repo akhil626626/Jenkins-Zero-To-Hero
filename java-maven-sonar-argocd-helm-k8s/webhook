@@ -1,3 +1,10 @@
+step 1:
 We need to configure the webhook in Jenkins to notify GitHub of the changes.
 we can set the pull request , commit or push request in git hub
 If the devloper change the code , Git will nofity the jenkins with help of webhooks.
+
+step 2:
+
+Now the devops engineer role comes into play. We need to build the application.
+by install the maven plugins in the jenkins or we can use the docker agent for installtion the maven.
+
