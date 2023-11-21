@@ -22,7 +22,7 @@ no problem.
 step 4:
 
 we can create the docker image.
-using shell script or docker images.
+using shell script or docker agent.
 
 then we can used docker image to docker hub or etc....
 
