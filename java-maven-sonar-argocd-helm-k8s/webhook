@@ -32,6 +32,11 @@ Continuous integration is done.
 
 CD.
 
+gitops is best practice for CD.
+
+for CD you need to maintain other git repo for CD like deployment.yaml and pod.yaml
+
+
 
 
 
